@@ -1,0 +1,7394 @@
+fileFormatVersion: 2
+guid: 5231fbe9199f6cc41a4906fcc3db953b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bankaiICHIGO_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3524
+        width: 48
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c49fe87e78e5934f8c4363d17a46d51
+      internalID: -1963551799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3524
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a7d6f99188a414ca7f993b482a4b45
+      internalID: 1208380349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3524
+        width: 55
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8de6d538b35164e91c2ccf00228ad1
+      internalID: 1562192564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3524
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d633786b24c2245962e1395581c539
+      internalID: -1855292782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3438
+        width: 55
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c47cdabfe25049be268ab5fa9c7c9
+      internalID: 1532080518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3438
+        width: 56
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b35435fa37fab4dbc49ff7c1b4e15b
+      internalID: -242742956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3438
+        width: 56
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba48f054fa7eedd4ba0cddf343a2ae48
+      internalID: -581644133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3438
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15bd31ef6e17fb4abe83e71e9296921
+      internalID: -808724419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3438
+        width: 55
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc92303623ece47a96b4205c88cb08
+      internalID: 1263189376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3438
+        width: 56
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59404d7ead124484a8f9bebfdd9d258a
+      internalID: 1935006684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3438
+        width: 56
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3311b0d15145143a44e731d1aedcf0
+      internalID: -2098962809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3438
+        width: 56
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9de718911783344ab4c508fb52808d
+      internalID: -1007460718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3438
+        width: 51
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c47c5317aa1d54eb5f4b1abf857507
+      internalID: -1571149171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_14
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3438
+        width: 56
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd74e773e1298d4f886829cbf4827fd
+      internalID: -857997214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3326
+        width: 50
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2295548a7c72c914bbcb4eb9a16a70ce
+      internalID: 1940680928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3350
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47a2b31c8451045885ecd6e13c50ce
+      internalID: -1068311449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3349
+        width: 43
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1355936e79599c84ea79e94318ec02c8
+      internalID: 1433189597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3357
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ed1aa3f294d724ca3db5d9651b3dc1
+      internalID: 1169796343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3350
+        width: 50
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635b7c337c3454499d1c35e614b90f5
+      internalID: -1645615253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3350
+        width: 51
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da5553b33cac3409a79ce3c57305de
+      internalID: -301173346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3326
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046d36de1caa16044bb6ca1e6ab9b16d
+      internalID: -80391869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3314
+        width: 117
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125ebe43e0c70ec4cb209bb21b137871
+      internalID: -283336562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_24
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3326
+        width: 50
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7959d92ec586448213d3032a9b5ad
+      internalID: -669834719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_25
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3326
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45834c7a41c59a2448e1221cc1b2ff93
+      internalID: 2097775256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_26
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3326
+        width: 52
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd218c0b457856468b10a1c2c8dcbf3
+      internalID: 1473876452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_27
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3325
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f4a249a29a70c409342154a2cd3e98
+      internalID: 140680580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3224
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db6fbccf92938749918202a39008972
+      internalID: 849585537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3224
+        width: 56
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7571d2d5f505a35479238d77a27fea69
+      internalID: 1401136317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3224
+        width: 47
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0979e0862d93c43afc40a84f0cece5
+      internalID: -1390010985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3224
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d32c78b9ccdcf4d87e2ca82c48cca9
+      internalID: 1770105962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3159
+        width: 59
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a7bffa66951c347baee4698847c07c
+      internalID: -286834632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3159
+        width: 61
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2933ee14f1065a4795202a1718cfeb2
+      internalID: -153562881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3163
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a68d6026de3d44b46322581e77f88
+      internalID: 489384197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3166
+        width: 64
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e426008ad212f419c5efbf1542c231
+      internalID: 25921803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3153
+        width: 54
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3666ce9a0352f429c83610656e3700
+      internalID: 467737538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_37
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 3151
+        width: 46
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beba4239fdd33f4a97249e61b4616dc
+      internalID: 239001901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_38
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3136
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ec02335953194cac0b5339c523978
+      internalID: -633133196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_39
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3136
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eb27bb2b55fd84e888d86aea5bf587
+      internalID: 1094762949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_40
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3136
+        width: 43
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb56ecbb678e79744b2e7bc3d4bf9a49
+      internalID: -892087296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_41
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3136
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6853a265bff5bad439e322b5b4b4efa7
+      internalID: -238153359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_42
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3136
+        width: 63
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8751fb1df664944b8ba26997fc3318f
+      internalID: 554797044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2878
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b1b59db002f64fa3866d1f12e962f
+      internalID: -861060521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2878
+        width: 45
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e7832b8815d4458f0864e7be7e690
+      internalID: 1518205807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2878
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75148a424e2e347479cdc899257e5b58
+      internalID: -164554858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2878
+        width: 59
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2318bc5817e904c8e4c4aec721d6c9
+      internalID: 1816621784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2878
+        width: 59
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd618be4afd2e0499b50d41fcaefa3a
+      internalID: 963010272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_48
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2878
+        width: 59
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c221ebcc091db4692a3ec87bea64ca
+      internalID: 1984498261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_49
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2878
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e9e30e6db37df42a426254e693567d
+      internalID: -1731981516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_50
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2878
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db51d90110a6d44adb2569a4b9d48b
+      internalID: 1510422135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_51
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2858
+        width: 60
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7b74fdddc1fb44aaa13138d7b3efc2
+      internalID: -1001976559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_52
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2878
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651dc7c224f1a264092f73ebac6160ff
+      internalID: 4051462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_53
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2878
+        width: 46
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72efbce652d7c40864ebbcf6e8e27c
+      internalID: -288808579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_54
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2878
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d30776431e56845948306c844228a5
+      internalID: -171803814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2801
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c4305ff3d9604bb2010f53482f267
+      internalID: 57677728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2801
+        width: 50
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472ac8c543e85447a015019ebf4368f
+      internalID: -705334066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2801
+        width: 49
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a220c1147ad64bc4f8af4454e0d7097e
+      internalID: 1091780728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2801
+        width: 69
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d2c2deb711cd24ebd6bf428abbceda
+      internalID: 1286221087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_59
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2801
+        width: 42
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca32f95953c2994e9779185d34832e5
+      internalID: -1054262878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_60
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2801
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd4a9809d0a4d4e8168f59bc64f076
+      internalID: -1391642046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_61
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2840
+        width: 18
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1053ef61c1cbc034e82f491b01ca2ebb
+      internalID: -451823449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_62
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2826
+        width: 11
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233df83f428c2404cbe1e769860b4a61
+      internalID: -1191502070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_63
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2801
+        width: 50
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1628c0977e3c26340b347159a139399d
+      internalID: -2122860272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_64
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2801
+        width: 71
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fea609d215a8174d920dce8ad6ff798
+      internalID: -281534153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_65
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2810
+        width: 56
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0027e7e7574394f941b5dcffb87e12
+      internalID: -472961604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2699
+        width: 46
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f0792728a9a154bb25bb6779332e51
+      internalID: -1370661836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2699
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d7e7d09c54da40ae62995af438962
+      internalID: -1338849233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_68
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2699
+        width: 93
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782fe45855a39a247b2fc4a9a4518a7e
+      internalID: -704453433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_69
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2699
+        width: 55
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c51e4be4d7f534aa669e8f1b6de1cb
+      internalID: 1512061924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_70
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2699
+        width: 43
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5555911d15758514184b7ea9a64b1383
+      internalID: -1533005081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2699
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9febdfd2be97741bc2569cc9aa2088
+      internalID: 1436120046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_72
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2710
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12dcfafe08e0948ba7631a04e77de2
+      internalID: -1163335745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_74
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2687
+        width: 178
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd59b937ee5ae9e41bb21a357e332d80
+      internalID: -184798225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_75
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2699
+        width: 79
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a2f7207ef0d647807b96df4cc16de
+      internalID: -1714166157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2604
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e748af6d0af7d44a566e8e743948bd
+      internalID: 703375398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2652
+        width: 155
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a1091caa44a249ab2ac0d899f21a2
+      internalID: -1659416854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_86
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2604
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e02b71e1fd8805469cc4ef1e0aca2a3
+      internalID: 134830292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_87
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2628
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3e040746bcd064c81d5785d94abbbf
+      internalID: -931877638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_88
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2649
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40fed2a25c03441a29b701a555daa7
+      internalID: 933588824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_89
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2628
+        width: 33
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d3ace9e575e4d458684c336fe032df
+      internalID: -98656584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_90
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2649
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a1c409a96d94b4f8844a28ae6e60a9
+      internalID: -2047679514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2604
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a22de2a6663de4eb2de402045d0714
+      internalID: 1903027134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_92
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2604
+        width: 61
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3371e938600741bcc20290dc7b1f3
+      internalID: 1789593593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2604
+        width: 66
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c74d49637739a4c8b96b2e24ea466c
+      internalID: -888622525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_94
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2604
+        width: 68
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4c2397fe60d34d8447e70c1db4a33
+      internalID: -1139922521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_95
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2604
+        width: 67
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378a67ad2f77814287b24bc824c116e
+      internalID: 1298876682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_96
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2604
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ab4c24d898b36478ee8efd4e6146ff
+      internalID: 1670479904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_97
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2606
+        width: 88
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8df6cd1397cf841b672dbd3702892f
+      internalID: 22873505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_98
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2625
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c5ab4dc7a1f442863792232a34895
+      internalID: 630999955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_99
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2626
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1387f145d9e5554b9c816d153815f23
+      internalID: 1450911472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_100
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2626
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8265d80bc4a8d45409f1bc9726b5712c
+      internalID: 351290102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_101
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2625
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c39ed47facc364b8e62caa1cdf12e4
+      internalID: 2147013768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_102
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2604
+        width: 58
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66707c3b087dd8f4783accee7509e492
+      internalID: 1575890378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_103
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2604
+        width: 76
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b6ff5f69dc7e4fa862081909c0f51
+      internalID: 967008436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2513
+        width: 51
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30daa2efba861444a4e646e9050ae28
+      internalID: 103092683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_105
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2513
+        width: 74
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b402462e7634d4390f8cc589ad2fa9
+      internalID: -554818741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_106
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2513
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bcbe550038cc5469a8503e9d9a672b
+      internalID: 249221435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_107
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2513
+        width: 56
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71eb087cb476c478464c2928349023
+      internalID: 460664359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2513
+        width: 53
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a670eb48848ae40abcc306e56e1a7a
+      internalID: -144340737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_109
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2493
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a4a0628a546b34a8a8d35cb0f9e35d
+      internalID: -1934600488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_110
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2493
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c30c815b59d24b9fec685cc40b7a5
+      internalID: -1670582005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_111
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2493
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80dc0973c81acd41b2d934302389b1f
+      internalID: 1115131744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_112
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2493
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8339d1b30807c541b90e5f42633c670
+      internalID: 887180565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_113
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2493
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841bf509ed049c459c35bc3e98f00e2
+      internalID: -267501361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_114
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2493
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f45a7b442ecaf46a87432048c746bf
+      internalID: 868014437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_115
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2493
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3504b384aed3aca4ab6a7fcc3b138dc3
+      internalID: -991002732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_116
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2493
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3531b2ec1e53240a1a743109c27453
+      internalID: 1159024330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_117
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2493
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db81ef5e37fdef4c91d59bac93fdd08
+      internalID: -604533340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_118
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2493
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e115d99134a6342996f7f0fe697854
+      internalID: 1458917786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_119
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2493
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1e5108d9b2774889bce22e13f0bcf
+      internalID: 1218624365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_120
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2493
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9933eac58eb0af94c856be1576419a9c
+      internalID: 554452966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2406
+        width: 42
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b06ad3149cd638499cb0efe67fe2221
+      internalID: 8793317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2402
+        width: 78
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cec2e3a8fabc540aea5f625f854262
+      internalID: -1032390020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2393
+        width: 68
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd5b8e0f98553b4fb404ca3af08883d
+      internalID: -892902575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_124
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2405
+        width: 65
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4f62586b910f4896e9b0687dbd55e
+      internalID: 39367882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_125
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2401
+        width: 49
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773a4eb591d41d4e883693dd2036e8a
+      internalID: -785841461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2439
+        width: 74
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae71a38a8493b154d8bd98303777d14a
+      internalID: -64391280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_127
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2394
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12b2855f172244daf222aac4b0b850
+      internalID: -771375400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_128
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2402
+        width: 78
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ff201b07d743a449146c57720a94f1
+      internalID: 917109736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_129
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2393
+        width: 90
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa206f421f82eba48ace074e069841e6
+      internalID: -769205574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_130
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2383
+        width: 65
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d168da97725c489fa31f717fa0dd5
+      internalID: 363741395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_131
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2383
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57ba1923b22764a8a3ff2dc8f165b5
+      internalID: 1353324352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2361
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e01e4118a5c8408ebbc9e910ee772
+      internalID: -940958691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2361
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d061cb1fd83034478cf26bac5525d6d
+      internalID: 1015882017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2361
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebd97b1a954f349bfd41d15f6fded1
+      internalID: 1649645893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_135
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2361
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f673170b4ef67464098cb33452c5a611
+      internalID: 300923178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_136
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2361
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938e3052cab0854f9261528d1f54a18
+      internalID: 1419855858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_137
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2361
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e0d3e715abc246976529765e25e41
+      internalID: 1636826799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_138
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2361
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a46a0e3d9945ff4d9700f1d610150fb
+      internalID: 1753000404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_139
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2361
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e109ae9858e0b1e4682bc22f445b7f7b
+      internalID: 1106719849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_140
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2361
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f19b777297760409b7da0dde125c6e
+      internalID: -329805970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_141
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2361
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2805603983649d448fa9456a86ed742
+      internalID: 2102431931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_142
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2361
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad403b646ee91246b6ebe1655b03abe
+      internalID: -367119525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_143
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2361
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb11915e9bd634469fd0e0eddd6c716
+      internalID: -124729289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_144
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2361
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075cba9c144ea54c87f74ccef8c87c1
+      internalID: -145372086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_145
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2361
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2931593ce6f254c85116bb315a5043
+      internalID: 493458287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_146
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2361
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab04eb3ae4efcd444bf327540bc9403a
+      internalID: -1976019480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_147
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2361
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5efdabef7bfa874c803fc62d9deae27
+      internalID: -1760179347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_148
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2361
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e953b46d4bfc4fbacf9fcd1998539
+      internalID: -1214149227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_149
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2361
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c1be64f5376bb43bb0b912c57b6f64
+      internalID: -1508303396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_150
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2361
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76ba320f7c95143b9267c8b8ca4760
+      internalID: -1116308998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_151
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2248
+        width: 70
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9624bb83d12648812795e3b9e2647
+      internalID: -1272497364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_152
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2274
+        width: 71
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1dbf61c1d4c0f4f81e344f64876643
+      internalID: 1500635964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_153
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2274
+        width: 50
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3043154d09fdfcf4a869996ad1c614c5
+      internalID: -1973009072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_154
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2274
+        width: 50
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5383cb563f2974785a4f07a4d148a2
+      internalID: -468977713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_155
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2274
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8815cbf1be22438913352d602e9e5
+      internalID: 199599055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_156
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2274
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d6fab81dc3fb4aa7cdc5a610eede8
+      internalID: -1246221523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_157
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2274
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f5c4e2e47a52a4ca42741d75f379ba
+      internalID: 1984031573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_158
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2296
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee1c69e54976e42af6db82722628ad
+      internalID: -1824803361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_159
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2291
+        width: 57
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54836cf6d82709842afb60933696a258
+      internalID: 1577620165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_160
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2277
+        width: 45
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b616af0e22d5144c834a8984900445a
+      internalID: 1338920172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_161
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2287
+        width: 35
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56fc61f6fcc02c4f8304d100a670173
+      internalID: 59864575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_162
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2280
+        width: 29
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b466fc52557bb4f80901977ce0c28f
+      internalID: 255873459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_163
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2318
+        width: 62
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731d3cdcbb0a1640a2f1a508f079be9
+      internalID: -64391685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_164
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2267
+        width: 55
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff38639b01007441831871300d53e9f
+      internalID: 489760988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_165
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2315
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8abc3dbcf2b6d442872247610573669
+      internalID: 395932181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_166
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2271
+        width: 32
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4475376ff50c65b4db07ab0b9afe04a2
+      internalID: 1508226627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_167
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2264
+        width: 75
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda5a9a0a478f542be5ab04e3b1fce3
+      internalID: -186498239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_168
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2262
+        width: 51
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4abd901c22f8048a5be3a096cc04f2
+      internalID: -1609426038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_169
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2267
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e653179aeb6a46b662a8a0e504f3d
+      internalID: 476072963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_170
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2263
+        width: 45
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362589e6976028444a4eedf9793e0850
+      internalID: -1226596403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_171
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2241
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf345016362ba347a191bd70cc11f77
+      internalID: -48011481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_172
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2241
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3146efefef5a444e8281fbb15df16fd
+      internalID: -82602773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_173
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2241
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e1a80939111740b6b670b152b5496
+      internalID: 2107097987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_174
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2241
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae276e0a3d403041b757d1fe54fd8dd
+      internalID: 1799449722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_175
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2241
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952bd24b8709dc642b3e09bf31987bf3
+      internalID: -267957508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_176
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2241
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5f4a294bd9a048ba68c5592721612
+      internalID: 1147408615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_177
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2241
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325ff3fc3fb514b4fa6ec56ea3303078
+      internalID: -52618315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_178
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2241
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d07246cb59f2a4e883cb6740764aa2
+      internalID: -997661439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_179
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2241
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c200edde77e8d6c4996906b58e5d9113
+      internalID: 251870774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_180
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2241
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44920bfd4bbe304eb181992f9cfbc7b
+      internalID: 1965392210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_181
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2241
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444981601d737e42a8a3f777a714cef
+      internalID: 1679797112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_182
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2241
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba97a4c0efcdf4fa679e342579529a
+      internalID: 1315388694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_183
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2140
+        width: 46
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03051d69a34aae44eaf91691b81cf1a4
+      internalID: -710245385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_184
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2140
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f460087a31f165499ec60b6b5d27a2b
+      internalID: -1622298162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_185
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2140
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22e025d75abbc42931f4190a58fb35
+      internalID: 901947868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_186
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2140
+        width: 48
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1451e7f15c8d2847adfdc412e0bc02c
+      internalID: 1950614206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_187
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2140
+        width: 81
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58a3c67bcd4ff42ac08e97d6abff4f
+      internalID: -938865942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_188
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2140
+        width: 55
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f5937d5ba5f11439da632f6134a5a0
+      internalID: 1204151661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_189
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2140
+        width: 55
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8530b0bc36c4040ad694953ae37fc4
+      internalID: -1467875724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_190
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2140
+        width: 61
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795922e8b2c18e488bc4f7fd3d5957a
+      internalID: -477250723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_191
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2143
+        width: 48
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87381509ec37c8f43abbfcd44636fc47
+      internalID: -1549724483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_192
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2188
+        width: 78
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d0ad04178495e4ca735782cacfd298
+      internalID: -1059759466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_193
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2140
+        width: 81
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8502538b73565041b63050b6ba6bf67
+      internalID: -1002612761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_194
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2140
+        width: 83
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaafc73092d1b642a56878c1939d62b
+      internalID: 129506010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_195
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2140
+        width: 54
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab17939f9b21b428ce2f07afd3a760
+      internalID: -632302647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_196
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2121
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac06cec954e65d48b2073b45c710a14
+      internalID: 1343208287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_197
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2121
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb73b3b2ba0c34aa5a1f5b9f7f3851
+      internalID: 594319181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_198
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2121
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcec2f31c1a626f4db3b4ef2db0d9076
+      internalID: -1611277215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_199
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2121
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d7d83d798ad44c8f94435ac00b157
+      internalID: -1291917500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_200
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2121
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107fbea0f0249848a6fe0dc340dc090
+      internalID: -1566215742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_201
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2121
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43085b88c43e32441a6d695f6aaf899d
+      internalID: -611856269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_202
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2121
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c127efb75b7342640b51cc246c38f6dd
+      internalID: 296322807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_203
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2121
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae4e53fe28df5045bfa0310f15d09e5
+      internalID: -1783367041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_204
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2121
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efeb97c15c1e7541b7725f74ed4b95c
+      internalID: -752405960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_205
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2121
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7673020054e67e42b6a30e92432641d
+      internalID: 848942367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_206
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2121
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8da82808b3b764aa533aa6ec4b6b3e
+      internalID: 1495985713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_207
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2121
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf1aaa3e47e374db60f022e77ef480
+      internalID: -268179784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_208
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2121
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c666c7e7881aba4dbc79fb551361b56
+      internalID: -927038370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_209
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2107
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee0bdd85b0160e46af8a95c5d4bc8cc
+      internalID: 1357777592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_210
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2107
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1e437078adf5f49acfe26e31e49ea0
+      internalID: -1844198597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_211
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2107
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58f7f4c7536b04cb860a2311e17738
+      internalID: -454057133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_212
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2107
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc92e9da3ec04c458157c1a6c9af681
+      internalID: 1670439477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_213
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2107
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b5f772c0ea6a45884d2fac6e1197b
+      internalID: -992198816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_214
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2107
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eeabf9d78f1d44b89eca3d5f83d89f
+      internalID: -1121801883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_215
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2036
+        width: 52
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89e83e2a85d2a64fa55a9ee676968d3
+      internalID: -162519503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_216
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2036
+        width: 55
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad84be96fbab904b897c77cc629f83e
+      internalID: -486525507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_217
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2096
+        width: 119
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e8d73d34f4a84684fbbe31666768f
+      internalID: -373372900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_218
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2036
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7284608e989a43a68bda42a833422
+      internalID: -1616113309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_219
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2036
+        width: 54
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c263c8876ac0d41953d60caf400726
+      internalID: -572728063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_220
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2036
+        width: 49
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b7dc848dce9d141b8537cbf947d008
+      internalID: -1882340556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_221
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2036
+        width: 53
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb581f5a33b2664793c13341365ec6f
+      internalID: 1467148519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_222
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2036
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e9063db0fcfc74cabaee524e0dba4c
+      internalID: 964516528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_223
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2036
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa9e76425b5314984c615d0d1e02f1
+      internalID: -4976293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_224
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2036
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082898e3aadd7b40aea6a0f94538000
+      internalID: 543475337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_225
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2036
+        width: 88
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f28b887b34f994e8180bcae2dadb4d
+      internalID: -883510499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_226
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2036
+        width: 90
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58364381e563d4b93a4629eda86705
+      internalID: -1730217159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_227
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2038
+        width: 9
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e87c5902534c43aa322389ab96ed2
+      internalID: -1601425822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_228
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2045
+        width: 4
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d5b2bbd5284774a985bf129bd0ecf3
+      internalID: 1747429077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_229
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2042
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee46c8206e0f9f47b0aa0f8ae3205b3
+      internalID: -704496395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_230
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2047
+        width: 4
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea973a9542a4a14b93628b373593191
+      internalID: -1563660533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_231
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2041
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8ca08d29c18de47bfc6c8cd12c5527
+      internalID: 1975466215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_232
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2042
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9590228a72665946b38185be12e44e0
+      internalID: -684574951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_233
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2047
+        width: 4
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a795effe44f04b489fbdd6b30001aa4
+      internalID: -1953238627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_234
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2045
+        width: 4
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30baab15683d532449a215b4688b084a
+      internalID: -1902068893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_235
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2038
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33370015f68d8478ad9742473cee46
+      internalID: -1677495148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_236
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2036
+        width: 88
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0780a992baad79442ac3576326386564
+      internalID: -850193733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_237
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2049
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79e67180eac047459a8a4dadb92ed27
+      internalID: 1943536910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_238
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 2048
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17d8729b172a74bb844c2bf40c2c2d
+      internalID: -244073018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_239
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2038
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab339f68c5b4c4e89614d2d205fa22
+      internalID: -524751995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_240
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2037
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b39fbb9e3feb4dbce9fd28fb47bb3
+      internalID: -1344289734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_241
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2037
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89ebdbd2061b334194bd4c88e498111
+      internalID: -1631012541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_242
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2036
+        width: 7
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0680dfa637b984f94f719ee02b3ecf
+      internalID: -640042998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_243
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2036
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25656ab9c07870543b1b75965b5b8aaf
+      internalID: -760030068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_244
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2036
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450cedc886cea9439913ac852f45457
+      internalID: -1241631922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_245
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2036
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4122c3617e23cc46a6248c16aa9844d
+      internalID: -27125600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_246
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2036
+        width: 7
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad96fc5a908564581429773c3b05f4
+      internalID: -1488610200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_247
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2037
+        width: 7
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe170a20567afa4d842a08464521614
+      internalID: 1033051274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_248
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2037
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5827affb9e5c14ba2930eb65091c99
+      internalID: 1675067586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_249
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2038
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7af7e5d880fe4990cc5b1c9caf944
+      internalID: 1638054080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_250
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2016
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e8a4ab5997e3468a904fe865ca33d
+      internalID: -429244789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_251
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2018
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b226540cac434f86d3cf1a41f23ec
+      internalID: 817450483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_252
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2016
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85904ccb8ead7c84499ff569813720f1
+      internalID: 1288963564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_253
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2016
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e156ddace5e8643b7b23dd08fef9e4
+      internalID: -1820337664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_254
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2016
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8f09509327e0439109f12a28ece85
+      internalID: 1986895979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_255
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2016
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf0aab359d0c641a955986bff0d3d3
+      internalID: -528021725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_256
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2016
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3aed547768304797ed755b41b2476
+      internalID: 1831094440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_257
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2016
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d285b07f412da478311cfbcab448b7
+      internalID: 1452259360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_258
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2016
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ceddb1f271f064199840805ce5534c
+      internalID: 1198899453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_259
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2016
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8157bd2fbb7b0e948820801202b727af
+      internalID: -1582974397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_260
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2016
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf964d8ffe15044d8cd5aed6ab80776
+      internalID: 852731743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_261
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2016
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0acf77057deb734ca99bab3220e9819
+      internalID: -806941433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_262
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2016
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf44bafd5a41d4fb0cf570efb6065a
+      internalID: -137686295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_263
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2016
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62c775ff337cd4dbb62a779c396c7c
+      internalID: 897768489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_264
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2016
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d346e5d9187a5574d9044e68b315ef12
+      internalID: 522775770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_265
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1949
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99a7a7d90d4b446b19701cb70b8a01
+      internalID: 43024066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_266
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1949
+        width: 46
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066c24417649a74e889086c34bfb4f2
+      internalID: 359906387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_267
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1946
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136b32163fcba2146b85ab6aef6ecbdf
+      internalID: -1129225986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_268
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1949
+        width: 55
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0256018a43294d4fafea76028c2b5e8
+      internalID: 46178521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_269
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1936
+        width: 55
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed465b5a63aa047b18bb89c915a279
+      internalID: -623169185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_270
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1953
+        width: 71
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c792de2c8d064889fe58fc66c2228
+      internalID: -994458084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_271
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1954
+        width: 66
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d9973b45df57438dbf1ccc0dabb88
+      internalID: 1784339194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_272
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1946
+        width: 49
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf05b14b2ea21440befcff474b5e69e
+      internalID: -818392776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_273
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1936
+        width: 47
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c0ae47216e3144ba2ce420224ef921
+      internalID: -305085758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_274
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1936
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371ff659ef4b8d4bb23c54eba122a4c
+      internalID: -1170873819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_275
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1936
+        width: 79
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ec44e374595e4695b147aae360519
+      internalID: -562115033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_276
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1936
+        width: 71
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be5a1fbaa82ac4fb69c016c3bb336a
+      internalID: 1198312036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_277
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1846
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab858ca44fb5d49b08da7ecccedea0
+      internalID: -1798783440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_278
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1841
+        width: 55
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce278f5b0e8c1649a7cd0b555d1f02b
+      internalID: -1417441423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_279
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1846
+        width: 47
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87144a5fd4e2753499da90d05b56b1ac
+      internalID: -1376205539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_280
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1846
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4450147ad95a32c41946e0d6eeae3b10
+      internalID: 949239066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_281
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1846
+        width: 50
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b300274b0f80a454aaf05c11b83ae383
+      internalID: -639917474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_282
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1846
+        width: 59
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d01be0a2ed9744dbe6c2d00d69f7e9
+      internalID: 617863504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_283
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1846
+        width: 84
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c043b728f09ad4cad52d7c4c4088ca
+      internalID: -1794158793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_284
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1846
+        width: 83
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67caaddfe6e68174988fc6282e4669ff
+      internalID: -759856281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_285
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1846
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff60c627bb132b45832eab5c6457907
+      internalID: -143421118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_286
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1807
+        width: 18
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd1887c3810184aa0f61671edceedd
+      internalID: -1671404294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_287
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1793
+        width: 11
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a003c3ecffb52b041bf781ca2c745584
+      internalID: -428161910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_288
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1768
+        width: 50
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8343db763bb0c4a8f8d262664d73a0
+      internalID: 1395663449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_289
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1768
+        width: 83
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d48620cdf62c549983d6632f7352cf
+      internalID: -682709439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_290
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1768
+        width: 117
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923585a4c9d302f4bbada10638e8932f
+      internalID: -1993848715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_291
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1768
+        width: 97
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978bef1bd5c0a4943a546cb1cda51f80
+      internalID: -1614257245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_292
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1777
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608dee891f1c1945b81a71d2fa3a4ba
+      internalID: 225742057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_293
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1773
+        width: 117
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3ed22856c73645a8bf5b4d7248f50
+      internalID: 393539796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_294
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1789
+        width: 27
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d494465007bd964f9504e51256220b0
+      internalID: -1583854060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_295
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1776
+        width: 33
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48a8b779359cf438915172317bdbf1
+      internalID: -1513539438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_296
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1789
+        width: 27
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c046771cadb83474098e167d0dfef169
+      internalID: -1007450026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_297
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1653
+        width: 66
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1fb8d2aa4f9304c92e30df740d5e63
+      internalID: -1884603356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_298
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1653
+        width: 53
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9708074ff7351c4dad3c1edd756f006
+      internalID: 1853480041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_299
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1653
+        width: 58
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b6bbee880a4549a7351df91a6a583
+      internalID: -24725805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_300
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1653
+        width: 80
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252b6e49ca818648a2d0f9fda6b3b50
+      internalID: 1123754138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_301
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1653
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62494ae699b72b44880b3d6dc91f7fa
+      internalID: 1956651260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_302
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1653
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c36c8965f23694f941bd750992fefd
+      internalID: 620524993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_303
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1653
+        width: 53
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c98253a8194d194b903f5f8dd680ace
+      internalID: 22330399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_304
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1653
+        width: 61
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed93e1e892eb7a43ae640b58acd3bbf
+      internalID: -75833043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_305
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1595
+        width: 24
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2232168f7f85c4698668c2abb2f43d
+      internalID: -268192859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_306
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1598
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1752391c395cd147912fc67254a286a
+      internalID: -159214477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_307
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1592
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bcaaf8c110ffa4e98a2180e0cdd02a
+      internalID: -588373200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_308
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1588
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8ae0f04c4e0374794779cb838547bc
+      internalID: 1203202573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_309
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1526
+        width: 114
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1eeb78dd5ca446b7b315e3e25062e
+      internalID: 1402107509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_310
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1530
+        width: 113
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4e325f3f72ef4f9a3bb92eb368463
+      internalID: 946798065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_311
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1574
+        width: 28
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b306d3183f9d49b89c62edaf5de26
+      internalID: -1890987841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_312
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1527
+        width: 113
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd572f89c5bdb7d41be0d42b16d4f131
+      internalID: 1887789361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_313
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1448
+        width: 55
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb10ccf816c5984e9bceafec77bbc32
+      internalID: -385669685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_314
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1428
+        width: 93
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48893184a27893340bfaf472f720c317
+      internalID: -814468287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_315
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1444
+        width: 80
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c93e7a07ee3f2340a4aa69c2a1e06e8
+      internalID: 422521701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_316
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1431
+        width: 62
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99b454d4ae8ba49808e093bb8cea09
+      internalID: -1775779955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_317
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1431
+        width: 93
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0035d75f4b0d8419c5db4a9cea8708
+      internalID: -1279678958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_318
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1431
+        width: 88
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d67b95b889e2684fa062882470197e3
+      internalID: 1253396197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_319
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1405
+        width: 70
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d451fef0a2b241b74ce6aace5bafc
+      internalID: -1468868958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_320
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1404
+        width: 75
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf9adab107e844681cb457a058aac6
+      internalID: 2121857690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_321
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1180
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb34cf0c4092e44f94e1b00d175f1e5
+      internalID: 621947904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_322
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1180
+        width: 48
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d85fdbefd1c8c44aa18958838afd47
+      internalID: -532638428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_323
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1180
+        width: 49
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123ec78bee3db3841a70443f116e2cf5
+      internalID: 1546125599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_324
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1180
+        width: 49
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8336add061363bc48ad93056c16052ba
+      internalID: 943879770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_325
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1180
+        width: 49
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e99670870cfa34a9fe5c9019b9b829
+      internalID: -297871174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_326
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1180
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aeb4e457ba074458674223124cdf4c
+      internalID: 1387951609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_327
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 953
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe481c74443984aa4a6dcf844d8b1e
+      internalID: -1464086767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_328
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 953
+        width: 47
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523fa288967b8114dba29814f383d21f
+      internalID: 1579363182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_329
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 950
+        width: 40
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d2120fbd0387e48a58093b19cd1aa1
+      internalID: 974650872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_330
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 949
+        width: 49
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a5e393e70007b42b20a3a7d05d12a9
+      internalID: 1752955313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_331
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 949
+        width: 49
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069681aab0146f43a953c3b1a926464
+      internalID: -541698786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_332
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 949
+        width: 49
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c432d047245df3c40b562f5cf8ee1330
+      internalID: -8612943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_333
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 953
+        width: 51
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fad585dafcd41409ffc3b735437ead
+      internalID: 1634830474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_334
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 954
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e7a7057146e548aa887d8431aced1
+      internalID: -72568470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_335
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 834
+        width: 31
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3b2117a8c74c49ab31bb275bac76f
+      internalID: -351232715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_336
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 834
+        width: 29
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f12f5e091652a949937743657522019
+      internalID: 1720202966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_337
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 846
+        width: 78
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c5de4702c6524082386157f3207b9
+      internalID: 1469889819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_338
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 844
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1fe33951e01cf45b42771f655cd219
+      internalID: -874202271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_339
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 845
+        width: 79
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559ad98ab5685840ba4ce2ffe88f1b0
+      internalID: -576280626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bankaiICHIGO_340
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 844
+        width: 77
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f68592e2f68a4f8d5c29e241a28a8
+      internalID: 632253043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bankaiICHIGO_180: 1965392210
+      bankaiICHIGO_140: -329805970
+      bankaiICHIGO_335: -351232715
+      bankaiICHIGO_309: 1402107509
+      bankaiICHIGO_321: 621947904
+      bankaiICHIGO_50: 1510422135
+      bankaiICHIGO_73: -467274626
+      bankaiICHIGO_88: 933588824
+      bankaiICHIGO_116: 1159024330
+      bankaiICHIGO_109: -1934600488
+      bankaiICHIGO_282: 617863504
+      bankaiICHIGO_286: -1671404294
+      bankaiICHIGO_71: 1436120046
+      bankaiICHIGO_129: -769205574
+      bankaiICHIGO_138: 1753000404
+      bankaiICHIGO_197: 594319181
+      bankaiICHIGO_291: -1614257245
+      bankaiICHIGO_105: -554818741
+      bankaiICHIGO_332: -8612943
+      bankaiICHIGO_290: -1993848715
+      bankaiICHIGO_247: 1033051274
+      bankaiICHIGO_29: 1401136317
+      bankaiICHIGO_131: 1353324352
+      bankaiICHIGO_81: 965807209
+      bankaiICHIGO_142: -367119525
+      bankaiICHIGO_275: -562115033
+      bankaiICHIGO_239: -524751995
+      bankaiICHIGO_4: -1855292782
+      bankaiICHIGO_70: -1533005081
+      bankaiICHIGO_232: -684574951
+      bankaiICHIGO_107: 460664359
+      bankaiICHIGO_66: -1370661836
+      bankaiICHIGO_20: -1645615253
+      bankaiICHIGO_64: -281534153
+      bankaiICHIGO_97: 22873505
+      bankaiICHIGO_18: 1433189597
+      bankaiICHIGO_111: 1115131744
+      bankaiICHIGO_222: 964516528
+      bankaiICHIGO_229: -704496395
+      bankaiICHIGO_270: -994458084
+      bankaiICHIGO_152: 1500635964
+      bankaiICHIGO_211: -454057133
+      bankaiICHIGO_272: -818392776
+      bankaiICHIGO_74: -184798225
+      bankaiICHIGO_280: 949239066
+      bankaiICHIGO_17: -1068311449
+      bankaiICHIGO_141: 2102431931
+      bankaiICHIGO_48: 1984498261
+      bankaiICHIGO_263: 897768489
+      bankaiICHIGO_318: 1253396197
+      bankaiICHIGO_308: 1203202573
+      bankaiICHIGO_31: 1770105962
+      bankaiICHIGO_76: -369094247
+      bankaiICHIGO_324: 943879770
+      bankaiICHIGO_86: 134830292
+      bankaiICHIGO_310: 946798065
+      bankaiICHIGO_147: -1760179347
+      bankaiICHIGO_143: -124729289
+      bankaiICHIGO_268: 46178521
+      bankaiICHIGO_37: 239001901
+      bankaiICHIGO_215: -162519503
+      bankaiICHIGO_257: 1452259360
+      bankaiICHIGO_43: -861060521
+      bankaiICHIGO_189: -1467875724
+      bankaiICHIGO_119: 1218624365
+      bankaiICHIGO_173: 2107097987
+      bankaiICHIGO_12: -1007460718
+      bankaiICHIGO_96: 1670479904
+      bankaiICHIGO_108: -144340737
+      bankaiICHIGO_183: -710245385
+      bankaiICHIGO_170: -1226596403
+      bankaiICHIGO_240: -1344289734
+      bankaiICHIGO_319: -1468868958
+      bankaiICHIGO_306: -159214477
+      bankaiICHIGO_94: -1139922521
+      bankaiICHIGO_46: 1816621784
+      bankaiICHIGO_16: 1940680928
+      bankaiICHIGO_208: -927038370
+      bankaiICHIGO_228: 1747429077
+      bankaiICHIGO_283: -1794158793
+      bankaiICHIGO_146: -1976019480
+      bankaiICHIGO_24: -669834719
+      bankaiICHIGO_218: -1616113309
+      bankaiICHIGO_195: -632302647
+      bankaiICHIGO_58: 1286221087
+      bankaiICHIGO_115: -991002732
+      bankaiICHIGO_165: 395932181
+      bankaiICHIGO_157: 1984031573
+      bankaiICHIGO_251: 817450483
+      bankaiICHIGO_224: 543475337
+      bankaiICHIGO_159: 1577620165
+      bankaiICHIGO_41: -238153359
+      bankaiICHIGO_322: -532638428
+      bankaiICHIGO_330: 1752955313
+      bankaiICHIGO_65: -472961604
+      bankaiICHIGO_266: 359906387
+      bankaiICHIGO_221: 1467148519
+      bankaiICHIGO_62: -1191502070
+      bankaiICHIGO_186: 1950614206
+      bankaiICHIGO_288: 1395663449
+      bankaiICHIGO_8: -808724419
+      bankaiICHIGO_267: -1129225986
+      bankaiICHIGO_307: -588373200
+      bankaiICHIGO_166: 1508226627
+      bankaiICHIGO_201: -611856269
+      bankaiICHIGO_204: -752405960
+      bankaiICHIGO_236: -850193733
+      bankaiICHIGO_262: -137686295
+      bankaiICHIGO_317: -1279678958
+      bankaiICHIGO_44: 1518205807
+      bankaiICHIGO_77: -716580150
+      bankaiICHIGO_121: 8793317
+      bankaiICHIGO_84: 703375398
+      bankaiICHIGO_168: -1609426038
+      bankaiICHIGO_273: -305085758
+      bankaiICHIGO_216: -486525507
+      bankaiICHIGO_214: -1121801883
+      bankaiICHIGO_292: 225742057
+      bankaiICHIGO_72: -1163335745
+      bankaiICHIGO_103: 967008436
+      bankaiICHIGO_253: -1820337664
+      bankaiICHIGO_135: 300923178
+      bankaiICHIGO_336: 1720202966
+      bankaiICHIGO_61: -451823449
+      bankaiICHIGO_53: -288808579
+      bankaiICHIGO_184: -1622298162
+      bankaiICHIGO_231: 1975466215
+      bankaiICHIGO_235: -1677495148
+      bankaiICHIGO_339: -576280626
+      bankaiICHIGO_293: 393539796
+      bankaiICHIGO_169: 476072963
+      bankaiICHIGO_294: -1583854060
+      bankaiICHIGO_89: -98656584
+      bankaiICHIGO_223: -4976293
+      bankaiICHIGO_36: 467737538
+      bankaiICHIGO_256: 1831094440
+      bankaiICHIGO_313: -385669685
+      bankaiICHIGO_59: -1054262878
+      bankaiICHIGO_133: 1015882017
+      bankaiICHIGO_238: -244073018
+      bankaiICHIGO_179: 251870774
+      bankaiICHIGO_160: 1338920172
+      bankaiICHIGO_176: 1147408615
+      bankaiICHIGO_91: 1903027134
+      bankaiICHIGO_259: -1582974397
+      bankaiICHIGO_40: -892087296
+      bankaiICHIGO_10: 1935006684
+      bankaiICHIGO_158: -1824803361
+      bankaiICHIGO_39: 1094762949
+      bankaiICHIGO_120: 554452966
+      bankaiICHIGO_212: 1670439477
+      bankaiICHIGO_226: -1730217159
+      bankaiICHIGO_227: -1601425822
+      bankaiICHIGO_277: -1798783440
+      bankaiICHIGO_285: -143421118
+      bankaiICHIGO_26: 1473876452
+      bankaiICHIGO_187: -938865942
+      bankaiICHIGO_234: -1902068893
+      bankaiICHIGO_35: 25921803
+      bankaiICHIGO_279: -1376205539
+      bankaiICHIGO_241: -1631012541
+      bankaiICHIGO_334: -72568470
+      bankaiICHIGO_252: 1288963564
+      bankaiICHIGO_287: -428161910
+      bankaiICHIGO_311: -1890987841
+      bankaiICHIGO_276: 1198312036
+      bankaiICHIGO_181: 1679797112
+      bankaiICHIGO_38: -633133196
+      bankaiICHIGO_0: -1963551799
+      bankaiICHIGO_220: -1882340556
+      bankaiICHIGO_57: 1091780728
+      bankaiICHIGO_106: 249221435
+      bankaiICHIGO_67: -1338849233
+      bankaiICHIGO_99: 1450911472
+      bankaiICHIGO_325: -297871174
+      bankaiICHIGO_203: -1783367041
+      bankaiICHIGO_174: 1799449722
+      bankaiICHIGO_217: -373372900
+      bankaiICHIGO_110: -1670582005
+      bankaiICHIGO_52: 4051462
+      bankaiICHIGO_90: -2047679514
+      bankaiICHIGO_260: 852731743
+      bankaiICHIGO_28: 849585537
+      bankaiICHIGO_312: 1887789361
+      bankaiICHIGO_298: 1853480041
+      bankaiICHIGO_14: -857997214
+      bankaiICHIGO_305: -268192859
+      bankaiICHIGO_153: -1973009072
+      bankaiICHIGO_320: 2121857690
+      bankaiICHIGO_177: -52618315
+      bankaiICHIGO_156: -1246221523
+      bankaiICHIGO_118: 1458917786
+      bankaiICHIGO_93: -888622525
+      bankaiICHIGO_245: -27125600
+      bankaiICHIGO_114: 868014437
+      bankaiICHIGO_69: 1512061924
+      bankaiICHIGO_79: 1335211180
+      bankaiICHIGO_139: 1106719849
+      bankaiICHIGO_185: 901947868
+      bankaiICHIGO_233: -1953238627
+      bankaiICHIGO_150: -1116308998
+      bankaiICHIGO_248: 1675067586
+      bankaiICHIGO_284: -759856281
+      bankaiICHIGO_154: -468977713
+      bankaiICHIGO_136: 1419855858
+      bankaiICHIGO_175: -267957508
+      bankaiICHIGO_172: -82602773
+      bankaiICHIGO_192: -1059759466
+      bankaiICHIGO_258: 1198899453
+      bankaiICHIGO_269: -623169185
+      bankaiICHIGO_316: -1775779955
+      bankaiICHIGO_198: -1611277215
+      bankaiICHIGO_22: -80391869
+      bankaiICHIGO_130: 363741395
+      bankaiICHIGO_242: -640042998
+      bankaiICHIGO_289: -682709439
+      bankaiICHIGO_80: 727940812
+      bankaiICHIGO_254: 1986895979
+      bankaiICHIGO_6: -242742956
+      bankaiICHIGO_68: -704453433
+      bankaiICHIGO_82: -890997817
+      bankaiICHIGO_85: -1659416854
+      bankaiICHIGO_112: 887180565
+      bankaiICHIGO_3: 1562192564
+      bankaiICHIGO_101: 2147013768
+      bankaiICHIGO_27: 140680580
+      bankaiICHIGO_128: 917109736
+      bankaiICHIGO_117: -604533340
+      bankaiICHIGO_95: 1298876682
+      bankaiICHIGO_182: 1315388694
+      bankaiICHIGO_134: 1649645893
+      bankaiICHIGO_200: -1566215742
+      bankaiICHIGO_30: -1390010985
+      bankaiICHIGO_326: 1387951609
+      bankaiICHIGO_250: -429244789
+      bankaiICHIGO_148: -1214149227
+      bankaiICHIGO_255: -528021725
+      bankaiICHIGO_13: -1571149171
+      bankaiICHIGO_162: 255873459
+      bankaiICHIGO_33: -153562881
+      bankaiICHIGO_188: 1204151661
+      bankaiICHIGO_125: -785841461
+      bankaiICHIGO_207: -268179784
+      bankaiICHIGO_191: -1549724483
+      bankaiICHIGO_1: -1680734546
+      bankaiICHIGO_295: -1513539438
+      bankaiICHIGO_264: 522775770
+      bankaiICHIGO_199: -1291917500
+      bankaiICHIGO_237: 1943536910
+      bankaiICHIGO_9: 1263189376
+      bankaiICHIGO_51: -1001976559
+      bankaiICHIGO_92: 1789593593
+      bankaiICHIGO_163: -64391685
+      bankaiICHIGO_144: -145372086
+      bankaiICHIGO_25: 2097775256
+      bankaiICHIGO_337: 1469889819
+      bankaiICHIGO_7: -581644133
+      bankaiICHIGO_219: -572728063
+      bankaiICHIGO_303: 22330399
+      bankaiICHIGO_333: 1634830474
+      bankaiICHIGO_19: 1169796343
+      bankaiICHIGO_299: -24725805
+      bankaiICHIGO_278: -1417441423
+      bankaiICHIGO_98: 630999955
+      bankaiICHIGO_23: -283336562
+      bankaiICHIGO_151: -1272497364
+      bankaiICHIGO_45: -164554858
+      bankaiICHIGO_34: 489384197
+      bankaiICHIGO_113: -267501361
+      bankaiICHIGO_122: -1032390020
+      bankaiICHIGO_274: -1170873819
+      bankaiICHIGO_104: 103092683
+      bankaiICHIGO_161: 59864575
+      bankaiICHIGO_171: -48011481
+      bankaiICHIGO_315: 422521701
+      bankaiICHIGO_83: 1122464713
+      bankaiICHIGO_225: -883510499
+      bankaiICHIGO_123: -892902575
+      bankaiICHIGO_261: -806941433
+      bankaiICHIGO_323: 1546125599
+      bankaiICHIGO_338: -874202271
+      bankaiICHIGO_78: -329258797
+      bankaiICHIGO_132: -940958691
+      bankaiICHIGO_149: -1508303396
+      bankaiICHIGO_164: 489760988
+      bankaiICHIGO_155: 199599055
+      bankaiICHIGO_190: -477250723
+      bankaiICHIGO_265: 43024066
+      bankaiICHIGO_196: 1343208287
+      bankaiICHIGO_5: 1532080518
+      bankaiICHIGO_213: -992198816
+      bankaiICHIGO_244: -1241631922
+      bankaiICHIGO_87: -931877638
+      bankaiICHIGO_281: -639917474
+      bankaiICHIGO_209: 1357777592
+      bankaiICHIGO_301: 1956651260
+      bankaiICHIGO_329: 974650872
+      bankaiICHIGO_2: 1208380349
+      bankaiICHIGO_47: 963010272
+      bankaiICHIGO_193: -1002612761
+      bankaiICHIGO_127: -771375400
+      bankaiICHIGO_304: -75833043
+      bankaiICHIGO_194: 129506010
+      bankaiICHIGO_340: 632253043
+      bankaiICHIGO_21: -301173346
+      bankaiICHIGO_54: -171803814
+      bankaiICHIGO_243: -760030068
+      bankaiICHIGO_145: 493458287
+      bankaiICHIGO_178: -997661439
+      bankaiICHIGO_49: -1731981516
+      bankaiICHIGO_314: -814468287
+      bankaiICHIGO_56: -705334066
+      bankaiICHIGO_246: -1488610200
+      bankaiICHIGO_302: 620524993
+      bankaiICHIGO_100: 351290102
+      bankaiICHIGO_75: -1714166157
+      bankaiICHIGO_32: -286834632
+      bankaiICHIGO_137: 1636826799
+      bankaiICHIGO_300: 1123754138
+      bankaiICHIGO_206: 1495985713
+      bankaiICHIGO_271: 1784339194
+      bankaiICHIGO_296: -1007450026
+      bankaiICHIGO_124: 39367882
+      bankaiICHIGO_11: -2098962809
+      bankaiICHIGO_55: 57677728
+      bankaiICHIGO_210: -1844198597
+      bankaiICHIGO_42: 554797044
+      bankaiICHIGO_167: -186498239
+      bankaiICHIGO_202: 296322807
+      bankaiICHIGO_102: 1575890378
+      bankaiICHIGO_60: -1391642046
+      bankaiICHIGO_249: 1638054080
+      bankaiICHIGO_15: 48431470
+      bankaiICHIGO_327: -1464086767
+      bankaiICHIGO_297: -1884603356
+      bankaiICHIGO_328: 1579363182
+      bankaiICHIGO_230: -1563660533
+      bankaiICHIGO_126: -64391280
+      bankaiICHIGO_63: -2122860272
+      bankaiICHIGO_205: 848942367
+      bankaiICHIGO_331: -541698786
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

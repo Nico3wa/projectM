@@ -1,0 +1,1509 @@
+fileFormatVersion: 2
+guid: dc011183f5eebdf4eb2d930825133ef7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 63
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 818
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d58f2ef8f24cbd44a9733ba4f1553d4
+      internalID: 67074229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 818
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcbd8f4ba0d0294c8393820fda20402
+      internalID: 1545344099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 818
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498b42ff425e06148b6026e274f19006
+      internalID: -1542162689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 818
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba23bbff5c6ab48b7ef0525c3caa53
+      internalID: -1362545824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 818
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e58ed54e4ef34da2338a8de08df10
+      internalID: 8656195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 818
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d988a40ceed7a2947a35267185984af5
+      internalID: 1029202244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 851
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c513be3076496e84ebd655704cf41255
+      internalID: -1128005383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 851
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b71c2b4f4342684ca702882471093dd
+      internalID: 1090276656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_8
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 853
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402bc5fe64c4cb45a3af0e8c250436d
+      internalID: 1959384237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_9
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 626
+        width: 320
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe2f72a1b8ea33438226f53a0715b37
+      internalID: -742685999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 746
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540d6983feb60f4c9462af2f0b1118b
+      internalID: 10749130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 746
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54cc65611b9a046b5f724ab6c697ad
+      internalID: -1967580406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 746
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb98ab911430244c91c57f6441d1c18
+      internalID: -2097488325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 746
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71daeaf158f764ca64b3ad6f93875c
+      internalID: -467967130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 746
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1342bbf7eb7b4f45b136105f4a20e02
+      internalID: 508405574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 746
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa361bb6c5e80b140828a200fea7c1f1
+      internalID: -290433800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_16
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 786
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b112c077757566c409ace290409e9295
+      internalID: 577053212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_17
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 783
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3361ca3702a44c851108abcb87a94
+      internalID: 480154437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_18
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 781
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a85ee22d5cd6e4db4d6dfe23bfa0ae
+      internalID: 2136418722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 680
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23fe1e63dc8cf40849183dd954471f
+      internalID: 1825182786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37743aedd0841614bba45797bfdb9f30
+      internalID: 930263150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 680
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d5a19929a28f43933a9d579bdfc77
+      internalID: -1858287525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 680
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e411788bee37438117d8f79ca8f60
+      internalID: 59780973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91115eaa7c0db0f4492d46ec3a748468
+      internalID: 1181639573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 674
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a2ddbc98d8274995105773fdf8865
+      internalID: 523164996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 694
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1287d68808bba694bbdc2c5367884544
+      internalID: -146031556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_26
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 682
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeed6897b65a4b419e601760e523e1b
+      internalID: 1533592897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_27
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 680
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e485a6d8812e674b81e95db6f42a9d8
+      internalID: -796936038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 608
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30545737ff81e4348a6fa2c28b543d4c
+      internalID: -1644066776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 608
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94e3c1088c9b7a4a9230bada1e96a57
+      internalID: 86743084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 608
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd0b7293c68a2c40be5c14e8fdf973e
+      internalID: -2026262782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 608
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c4d9ea158fe34d86634609f03269f
+      internalID: -363231749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd4f3dcf9d08643830872bb2895349
+      internalID: 1695744553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26446264bdacbd429e10fd825d7281d
+      internalID: -2054248457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_34
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 640
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56dbf87099a9de46ac57f6da8555e0d
+      internalID: -990627043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 640
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ab0a0682f1e9240bca3a22eb4d237b
+      internalID: -1414900270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_36
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 640
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6f96f5e074a64c851ff82de0e3bad
+      internalID: -9909738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 530
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581adad1da98f184fbb2730dbd569482
+      internalID: 1411397180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 530
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb191ba67ea5ac544a8ab6943a1e3765
+      internalID: -1389883786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 530
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5a009a5cb5cc46aef9e0737909e82
+      internalID: 461546536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_40
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 530
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf8fa30a7d52c40a2f8f6bf965df5f
+      internalID: -321077359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 530
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052cf88a9ff6644685f783fa96b0d23
+      internalID: -521819844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_42
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 530
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52047a4078898947b9835d6a84f3690
+      internalID: 1965483875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_43
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 306
+        width: 256
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36375d5be4494484b88e40aa68b2707e
+      internalID: 160631968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 434
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2b04cec3bf56a4499c201ecd696d4b
+      internalID: -1679715061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 434
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636b2c13a75d7c4bb038d190212f247
+      internalID: -1481165208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 434
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981ec610468c77a4293e887a8ed065fd
+      internalID: 2092773611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_47
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 434
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd94b7e70c9a7041a35164376cb980e
+      internalID: -933507639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 306
+        width: 408
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e632e8b726272ef43a03c177480542cc
+      internalID: -1051967201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff2fea55afb2144990aa24d838d3077
+      internalID: -453152581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ede884981a7e3f4b930c05ec171018b
+      internalID: 472308350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60102107a373007449c469055079b00a
+      internalID: -1329824075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_52
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3638b657c04e1468024266b38f2764
+      internalID: -859479059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_53
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553705bfcc6b8446879c290309117ef
+      internalID: 1974838113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855914b8575eccc4481d4893a52b74c5
+      internalID: 1660435219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c76a7ce3009b8e4fa017547bf0990c9
+      internalID: 1333214127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_56
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 292
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879644b0adce614b885a45e03a76728
+      internalID: 486171256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_57
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 50
+        width: 576
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf107263afb001f48bc3d40bf4a11b3d
+      internalID: 936935466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db35e075904d3341b6fa6b09b180249
+      internalID: 1072815828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799fe618ee3d4a42b9cc2b3dd3c2176
+      internalID: 2004615636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebd9ac069bacb749a0218097600079d
+      internalID: -2092485369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_61
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 220
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9533a240c41b443b6046909dba3b5e
+      internalID: 175928008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Game-Kit-Pixel-Art3_62
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 50
+        width: 320
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bb8af959b639f45866868593ed3527
+      internalID: -1395469782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Platformer-Game-Kit-Pixel-Art3_0: 67074229
+      Platformer-Game-Kit-Pixel-Art3_49: -453152581
+      Platformer-Game-Kit-Pixel-Art3_51: -1329824075
+      Platformer-Game-Kit-Pixel-Art3_53: 1974838113
+      Platformer-Game-Kit-Pixel-Art3_15: -290433800
+      Platformer-Game-Kit-Pixel-Art3_16: 577053212
+      Platformer-Game-Kit-Pixel-Art3_39: 461546536
+      Platformer-Game-Kit-Pixel-Art3_44: -1679715061
+      Platformer-Game-Kit-Pixel-Art3_43: 160631968
+      Platformer-Game-Kit-Pixel-Art3_5: 1029202244
+      Platformer-Game-Kit-Pixel-Art3_22: 59780973
+      Platformer-Game-Kit-Pixel-Art3_3: -1362545824
+      Platformer-Game-Kit-Pixel-Art3_27: -796936038
+      Platformer-Game-Kit-Pixel-Art3_9: -742685999
+      Platformer-Game-Kit-Pixel-Art3_45: -1481165208
+      Platformer-Game-Kit-Pixel-Art3_61: 175928008
+      Platformer-Game-Kit-Pixel-Art3_59: 2004615636
+      Platformer-Game-Kit-Pixel-Art3_7: 1090276656
+      Platformer-Game-Kit-Pixel-Art3_56: 486171256
+      Platformer-Game-Kit-Pixel-Art3_38: -1389883786
+      Platformer-Game-Kit-Pixel-Art3_50: 472308350
+      Platformer-Game-Kit-Pixel-Art3_52: -859479059
+      Platformer-Game-Kit-Pixel-Art3_33: -2054248457
+      Platformer-Game-Kit-Pixel-Art3_2: -1542162689
+      Platformer-Game-Kit-Pixel-Art3_19: 1825182786
+      Platformer-Game-Kit-Pixel-Art3_1: 1545344099
+      Platformer-Game-Kit-Pixel-Art3_42: 1965483875
+      Platformer-Game-Kit-Pixel-Art3_29: 86743084
+      Platformer-Game-Kit-Pixel-Art3_25: -146031556
+      Platformer-Game-Kit-Pixel-Art3_35: -1414900270
+      Platformer-Game-Kit-Pixel-Art3_31: -363231749
+      Platformer-Game-Kit-Pixel-Art3_48: -1051967201
+      Platformer-Game-Kit-Pixel-Art3_18: 2136418722
+      Platformer-Game-Kit-Pixel-Art3_4: 8656195
+      Platformer-Game-Kit-Pixel-Art3_8: 1959384237
+      Platformer-Game-Kit-Pixel-Art3_32: 1695744553
+      Platformer-Game-Kit-Pixel-Art3_13: -467967130
+      Platformer-Game-Kit-Pixel-Art3_40: -321077359
+      Platformer-Game-Kit-Pixel-Art3_11: -1967580406
+      Platformer-Game-Kit-Pixel-Art3_17: 480154437
+      Platformer-Game-Kit-Pixel-Art3_55: 1333214127
+      Platformer-Game-Kit-Pixel-Art3_28: -1644066776
+      Platformer-Game-Kit-Pixel-Art3_36: -9909738
+      Platformer-Game-Kit-Pixel-Art3_46: 2092773611
+      Platformer-Game-Kit-Pixel-Art3_54: 1660435219
+      Platformer-Game-Kit-Pixel-Art3_62: -1395469782
+      Platformer-Game-Kit-Pixel-Art3_58: 1072815828
+      Platformer-Game-Kit-Pixel-Art3_12: -2097488325
+      Platformer-Game-Kit-Pixel-Art3_57: 936935466
+      Platformer-Game-Kit-Pixel-Art3_14: 508405574
+      Platformer-Game-Kit-Pixel-Art3_24: 523164996
+      Platformer-Game-Kit-Pixel-Art3_30: -2026262782
+      Platformer-Game-Kit-Pixel-Art3_34: -990627043
+      Platformer-Game-Kit-Pixel-Art3_41: -521819844
+      Platformer-Game-Kit-Pixel-Art3_23: 1181639573
+      Platformer-Game-Kit-Pixel-Art3_37: 1411397180
+      Platformer-Game-Kit-Pixel-Art3_47: -933507639
+      Platformer-Game-Kit-Pixel-Art3_60: -2092485369
+      Platformer-Game-Kit-Pixel-Art3_21: -1858287525
+      Platformer-Game-Kit-Pixel-Art3_20: 930263150
+      Platformer-Game-Kit-Pixel-Art3_26: 1533592897
+      Platformer-Game-Kit-Pixel-Art3_6: -1128005383
+      Platformer-Game-Kit-Pixel-Art3_10: 10749130
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
